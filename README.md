@@ -2,4 +2,4 @@
 Listado de tareas
 ---
 
-Proyecto de tareas para completar o dejar pendientes
+Proyecto de tareas realizado en NodeJS para completar o dejar pendientes por consola
